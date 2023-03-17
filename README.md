@@ -11,7 +11,6 @@ output contains waiting time , turn around time for each process , we can see th
 same functionality as round robin but without quantum time , It depends on shotest burst time with respect to arrival time for each process 
 ;we can see the code in <a href="https://github.com/Menna-Islam/Assignment2/blob/main/src/SJFAlgorithm.java">SJF.java</a> file.
 
-![My Image](SJF.jpeg)
 
 
 
