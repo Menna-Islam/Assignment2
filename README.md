@@ -7,7 +7,7 @@ output contains waiting time , turn around time for each process , we can see th
 
 ![My Image](RoundRobin.jpeg)
 
-## Shortest Job Frist Algorithm 
+## Shortest Job First Algorithm 
 same functionality as round robin but without quantum time , It depends on shotest burst time with respect to arrival time for each process 
 ;we can see the code in <a href="https://github.com/Menna-Islam/Assignment2/blob/main/src/SJFAlgorithm.java">SJF.java</a> file.
 
